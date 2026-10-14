@@ -78,10 +78,3 @@ SalonBook uses SQLite to store user accounts, client records, salon services, ap
 5. View monthly reports and activity logs when permitted.
 6. Log out when finished.
 
-## Project Purpose
-
-This project was developed for the PF201 course to demonstrate Java programming, layered package architecture, database connectivity using SQLite, CRUD operations, and the use of PreparedStatement for database queries.
-
-## Developer
-
-Developed as an academic project for PF201.
